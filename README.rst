@@ -11,6 +11,7 @@ Automatic generation of the factory_boy_ factories for the SQLAlchemy models.
     :target: https://readthedocs.org/projects/alchemyboy/?badge=latest
     :alt: Documentation Status
 
+.. _factory_boy: http://factoryboy.readthedocs.org
 .. _alchemyboy: http://alchemyboy.readthedocs.org
 
 Install alchemyboy
