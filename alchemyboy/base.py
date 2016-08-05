@@ -14,6 +14,7 @@ class ModelFactoryMetaClass(FactoryMetaClass):
     """Model factory metaclass."""
 
     types = {}
+    factories = {}
     """Attribute types and factories map."""
 
     def __new__(mcs, class_name, bases, attrs):
